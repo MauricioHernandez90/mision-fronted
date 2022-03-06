@@ -133,8 +133,22 @@ table.borderp {
 .logo {
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 31%;
+    margin-left: 32%;
     }
 
-.animacion:hover .imagen {-webkit-transform:scale(1.3);transform:scale(1.3);}
-.animacion {overflow:hidden;}
+.barra {
+    background-color: #78163c;
+    width: 300px;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+
+
+div.bordes {
+    border-color: white;
+    border-style: dotted;
+    padding-top:15px;
+}
